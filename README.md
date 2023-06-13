@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavan-Kendaganna-Swamy
-- 👀 I’m Master's Degree in Electrical Engineering with a specialization in VLSI from ASU. I’m looking to collaborate on RTL coding and coding skills required for VLSI Engineer 
+- 👀 I’m Master's Degree Graduate in Electrical Engineering with a specialization in VLSI from ASU. I’m looking to collaborate on RTL coding and coding skills required for VLSI Engineer 
 - 📫 You can reach me at pkendaga@asu.edu
 
 <!---
